@@ -1,6 +1,8 @@
 # Dashboard
 
-## Print project [diretory](https://github.com/israel206/Dashboard-grafico/tree/main/Imagem-projeto/)
+## Print project [diretory](https://github.com/https://github.com/israel206/Dashboard-grafico/blob/main/Imagem-projeto/DashBoard-b.png)
+## Print project [diretory2](https://github.com/https://github.com/israel206/Dashboard-grafico/blob/main/Imagem-projeto/DashBoard-b.png)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
