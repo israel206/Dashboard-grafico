@@ -1,6 +1,6 @@
 # Dashboard
 
-## Print project [diretory](https://github.com/https://github.com/israel206/Dashboard-grafico/blob/main/Imagem-projeto/DashBoard-b.png)
+## Print project [diretory](https://github.com/israel206/Dashboard-grafico/blob/main/Imagem-projeto/DashBoard.png)
 ## Print project [diretory2](https://github.com/https://github.com/israel206/Dashboard-grafico/blob/main/Imagem-projeto/DashBoard-b.png)
 
 
