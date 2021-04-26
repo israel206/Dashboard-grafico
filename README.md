@@ -1,5 +1,5 @@
 # Dashboard
-
+## trabalhando com angular com DASHBOARD...
 ## Print project [diretotry](https://github.com/israel206/Dashboard-grafico/blob/main/Imagem-projeto/DashBoard.png)
 ## Print project [diretory 2](https://github.com/israel206/Dashboard-grafico/blob/main/Imagem-projeto/DashBoard-b.png)
 
