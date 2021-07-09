@@ -79,8 +79,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## 💻 Project
 
-App to always remember to water your plants 🌱
-
 Project developing for academic purposes
 
 ---
