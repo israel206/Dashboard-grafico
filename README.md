@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img alt="Dashboard-grafico" src=".github/DashBoard-b.png" width="90%">
+  <img alt="Dashboard-grafico" src=".github/DashBoard-b.png" width="80%">
 </p>
 
 ---
